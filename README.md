@@ -1,11 +1,4 @@
-# Digital Business Systems: A Case Study on Spotify
 
-**Correlation and Regression Analysis of Economic and Socioeconomic Indicators**
-*Business Information Systems Analysis — Spotify Technology S.A.*
-
-A course project for **Digital Business Systems**, Department of Economics, CHRIST (Deemed to be University), examining how Spotify's information systems architecture converts raw user behavior into personalization, operational efficiency, and sustained competitive advantage.
-
----
 
 ## 📌 Overview
 
