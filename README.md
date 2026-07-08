@@ -1,5 +1,5 @@
-<img width="1254" height="1254" alt="ChatGPT Image Jul 8, 2026, 10_16_00 AM" src="https://github.com/user-attachments/assets/d6946d71-26e4-424f-9af8-f60bc99b1981" />
-# 🐄 Moosic
+<img width="1033" height="767" alt="moosic final" src="https://github.com/user-attachments/assets/c98270de-1101-4da1-a0d7-8a1921697286" />
+🐄 Moosic
 
 ### *Your Daily Dose of Moo-sic.*
 
